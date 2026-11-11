@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+.env
+secrets/
+*.key
+*.pem
+README.md
+Dockerfile
+.dockerignore
